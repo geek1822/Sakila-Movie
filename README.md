@@ -1,6 +1,6 @@
-#Sakila Movie
+# Sakila Movie
 
-Contains the following-
+## Contains the following-
 
 i. ExtJs UI Implementation
 
